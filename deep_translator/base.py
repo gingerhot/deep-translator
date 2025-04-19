@@ -34,7 +34,7 @@ class BaseTranslator(ABC):
         @param target: target language to translate to
         """
         self._base_url = base_url
-        self._languages = languages
+        self._languages = {v: k for k, v in languages.items()}
         self._supported_languages = list(self._languages.keys())
         if not source:
             raise InvalidSourceOrTargetLanguage(source)

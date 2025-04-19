@@ -152,6 +152,7 @@ GOOGLE_LANGUAGES_TO_CODES = {
     "tatar": "tt",
     "telugu": "te",
     "thai": "th",
+    "tibetan": "bo-CN",
     "tigrinya": "ti",
     "tsonga": "ts",
     "turkish": "tr",
