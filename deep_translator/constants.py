@@ -118,6 +118,7 @@ GOOGLE_LANGUAGES_TO_CODES = {
     "meiteilon (manipuri)": "mni-Mtei",
     "mizo": "lus",
     "mongolian": "mn",
+    "traditional mongolian script": "mn-CN",
     "myanmar": "my",
     "nepali": "ne",
     "norwegian": "no",
